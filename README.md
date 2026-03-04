@@ -1,6 +1,6 @@
-# trying_flutter
+# PPB-Tugas1-ChangeFont
 
-A new Flutter project.
+A Flutter project for changing fonts.
 
 ## Getting Started
 
